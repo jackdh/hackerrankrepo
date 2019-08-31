@@ -24,16 +24,22 @@ export const matrixTwoTwoRot = [
 
 // prettier-ignore
 export const matrixTwoThreeRot = [
-    [3,2],
-    [4,1]
+    [3,1],
+    [4,2]
+];
+
+// prettier-ignore
+export const matrixTwoFiveRot = [
+    [2,4],
+    [1,3]
 ];
 
 // prettier-ignore
 export const matrixFour = [
-    [1,2,3,4],
-    [5,6,7,8],
-    [9,10,11, 12],
-    [13,14,15, 16],
+    [1,  2,  3,   4],
+    [5,  6,  7,   8],
+    [9,  10, 11, 12],
+    [13, 14, 15, 16],
 ];
 
 // prettier-ignore
