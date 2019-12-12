@@ -1,6 +1,4 @@
-export const matrixOne = [
-    [1]
-];
+export const matrixOne = [[1]];
 
 export const matrixOneSolved = [[1]];
 
